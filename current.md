@@ -119,7 +119,7 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 - Superman Pushup
 - Lalanne Pushup
 
-##Flexibility and Resistance - Every day
+##Flexibility and Resistance 
 |Static Stretches: 10-60s hold each|Resistance: 10-20s hold each|
 |---|---|
 |Cat pose||
