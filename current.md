@@ -30,7 +30,7 @@
 ##Warm-up (~10 minutes) - Every day
 |Dynamic Stretches: 5-10 reps each:|
 |----------------------------------|
-|[Full Body Circles](https://www.youtube.com/watch?v=xqmbqBl8BjY)|
+|[Hip circles](http://www.belmarrahealth.com/exercise-for-better-digestion/)|
 |Knee rotation|
 |[Neck: Tilt From Front To Back](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Tilt From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
