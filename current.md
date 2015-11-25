@@ -2,9 +2,9 @@
 
 |Table of Contents|
 |----|
-|[Strength days](https://github.com/renatoac/calisthenics/blob/master/current.md#strength-days)|
-|[Handstand & Planche days](https://github.com/renatoac/calisthenics/blob/master/current.md#handstand--planche-days)|
-|[Conditioning days](https://github.com/renatoac/calisthenics/blob/master/current.md#conditioning-days)|
+|[Strength days - Mon, Wed, Fri](https://github.com/renatoac/calisthenics/blob/master/current.md#strength-days)|
+|[Handstand & Planche days - Tue,Thu, Sat](https://github.com/renatoac/calisthenics/blob/master/current.md#handstand--planche-days)|
+|[Conditioning days - Sat](https://github.com/renatoac/calisthenics/blob/master/current.md#conditioning-days)|
 
 **References**: 
 - book: [Complete Calisthenics: The Ultimate Guide To Bodyweight Exercise](http://amzn.to/1NHXeaT)
