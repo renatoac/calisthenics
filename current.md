@@ -160,10 +160,10 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 |Scapula pull up|
 |Scapula dip|
 
+###Handstand and support
 Set a timer and go practice your support and your handstand, resting as necessary.
 When time's up, you're done.
 
-###Handstand and support
 |Date |[Handstand: 5 - 10 minutes](https://www.reddit.com/r/Fitness/comments/na04x/learning_the_handstand_handstand_press/) |Date |Support: 2 - 3 minutes |
 |---|---|---|---|
 || Level 1: Wall Plank || **Level 1: Parallel Bar Support** |
