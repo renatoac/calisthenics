@@ -71,9 +71,9 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 ###Pair 1
 |Date|[Pullup](http://i.imgur.com/qj7xV.jpg): 3x 5-8 reps|Date|[L-sit pullup](http://thepullupsolution.com/blog/the-l-sit-pull-up-10-baby-steps-to-mastery): 3x 5-8 reps|Date|[Dips: 3x 5-8reps](http://www.fitness666.com/2012/06/dip-progression.html)| 
 |----|----|----|----|----|----|
-||Level 1: Vertical pull-up|---| <= the same||Level 1: Bent knee bench dips|
-||Level 2: Horizontal pull-up|---| <= the same||Level 2: Straight legs bench dips|
-||Level 3A: [Jacknife pull-up](https://www.youtube.com/watch?v=GOeBd9YBx5k) / [Chair assisted](https://www.youtube.com/watch?v=lR55iuAxmsQ) || <= the same||Level 3: One elevated leg, straight legs bench dips|
+||Level 1: Vertical pull-up||<= the same||Level 1: Bent knee bench dips|
+||Level 2: Horizontal pull-up||<= the same||Level 2: Straight legs bench dips|
+||Level 3A: [Jacknife pull-up](https://www.youtube.com/watch?v=GOeBd9YBx5k) / [Chair assisted](https://www.youtube.com/watch?v=lR55iuAxmsQ) ||<= the same||Level 3: One elevated leg, straight legs bench dips|
 ||Level 3B: Negative pull-up|| <= the same||Level 4: Elevated legs bench dips|
 ||Level 4: Half pull-up|| <= the same||Level 5: Legs on the floor dips (assisted dips)|
 ||Level 5: Full pull-up|| <= the same||Level 6: One leg on the floor, one leg in the air dips|
