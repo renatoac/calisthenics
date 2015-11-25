@@ -1,9 +1,10 @@
 #Calisthenics Workout Plan
+
 |Table of Contents|
 |----|
 |[Strength days](https://github.com/renatoac/calisthenics/blob/master/current.md#strength-days)|
-|[Handstand & Planche days](https://github.com/renatoac/calisthenics/blob/master/current.md#Handstand & Planche days)|
-|[Conditioning days](https://github.com/renatoac/calisthenics/blob/master/current.md#)|
+|[Handstand & Planche days](https://github.com/renatoac/calisthenics/blob/master/current.md#handstand--planche-days)|
+|[Conditioning days](https://github.com/renatoac/calisthenics/blob/master/current.md#conditioning-days)|
 
 **References**: 
 - book: [Complete Calisthenics: The Ultimate Guide To Bodyweight Exercise](http://amzn.to/1NHXeaT)
