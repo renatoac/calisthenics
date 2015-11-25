@@ -103,7 +103,7 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 |---|---|---|---|
 ||Level 1: Vertical Pushup||Level 1: Vertical Rows|
 ||Level 2: Incline Pushup||Level 2: Incline Rows|
-||Level 3: Full Pushup||Level 3: Horizontal Rows|
+|01/10|Level 3: Full Pushup||Level 3: Horizontal Rows|
 ||Level 4: Diamond Pushup||Level 4: Wide Rows|
 ||Level 5: Pseudo planche Pushup|27/10|**Level 5: Tuck Front Lever**|
 ||Level 6: Wall Pushup (makes heavy use of core)||Level 6: Tuck Ice Cream Maker|
@@ -111,7 +111,7 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 ||Level 8: Spider Pushup||Level 8: Advanced Tuck Front Lever Row|
 
 **Variations**:
-- Fingertip Pushup (It's not necessrily used to develop pushing strenght, but rather the strenght and resilience of the hands and fingers.)
+- (01/11) Fingertip Pushup (It's not necessrily used to develop pushing strenght, but rather the strenght and resilience of the hands and fingers.)
 - Wrist Pushup (It's another very good exercise that can be used to strengthen an area that is very important in other areas of calisthenics, which are the wrists)
 - One-arm Pushup
 - One-arm One-leg Pushup
@@ -166,9 +166,9 @@ When time's up, you're done.
 ###Handstand and support
 |Date |[Handstand: 5 - 10 minutes](https://www.reddit.com/r/Fitness/comments/na04x/learning_the_handstand_handstand_press/) |Date |Support: 2 - 3 minutes |
 |---|---|---|---|
-|---| Level 1: Wall Plank |---| **Level 1: Parallel Bar Support** |
-|09/11/2015| **Level 2: Wall Handstand** |---| Level 2: Ring Support |
-|---| Level 3: Freestanding Handstand |---| Level 3: Rings Turned Out Support |
+|| Level 1: Wall Plank || **Level 1: Parallel Bar Support** |
+|09/11/2015| **Level 2: Wall Handstand** || Level 2: Ring Support |
+|| Level 3: Freestanding Handstand || Level 3: Rings Turned Out Support |
 
 
 ###Core and Legs
