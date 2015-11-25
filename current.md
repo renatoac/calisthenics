@@ -63,7 +63,7 @@ Try to beat your previous numbers every workout. When you hit the upper end (so 
 
 Some of the exercises are static holds, such as the L-sit progression or the tuck front lever in the rowing progression. One set here consists of simply holding the position for 10-30 seconds. Move on to the next harder progression once you hit 30 seconds for all 3 sets.
 
-###Pairs (~40 minutes)
+###Pairs
 Do all pairs.
 Pairing two exercises means doing a set of the first exercise, then resting 90 seconds, then doing a set of the second exercise and resting 90 seconds, and then repeating until you've done all sets of that pair.
 You can rest anywhere from 90 seconds to 3 minutes between pairs, whatever you like.
