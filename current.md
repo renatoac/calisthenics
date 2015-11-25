@@ -26,64 +26,33 @@
 - Stretching: http://martialarts.stackexchange.com/questions/648/is-static-stretching-before-practice-beneficial-harmful-or-something-in-betwee
 - Stretching: http://fitness.stackexchange.com/questions/455/should-i-stretch-after-exercise/
 
-##Warm-up (~10 minutes) - Every day
+#Strength days
 
+##Warm-up (~10 minutes) - Every day
 |Dynamic Stretches: 5-10 reps each:|
 |----------------------------------|
 |[Full Body Circles](https://www.youtube.com/watch?v=xqmbqBl8BjY)|
 |Knee rotation|
-|[Front and side leg swing](https://www.youtube.com/watch?v=4aoUZEZFJF8)|
 |[Neck: Tilt From Front To Back](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Tilt From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Rotate Head From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
 
-|[Wirst Stretches](https://www.youtube.com/watch?v=mSZWSQSSEjE): 10 reps each (for days of handstand or planches)|
-|----|
-|[Finger pulses](https://youtu.be/mSZWSQSSEjE?t=53)|
-|[Palm pulses](https://youtu.be/mSZWSQSSEjE?t=90)|
-|[Side-to-Side palm](https://youtu.be/mSZWSQSSEjE?t=124)|
-|[Front facing elbow rotations](https://youtu.be/mSZWSQSSEjE?t=152)|
-|[Side-to-site wrist stretch](https://youtu.be/mSZWSQSSEjE?t=190)|
-|[Rear facing wrist stretch - Palms Down](https://youtu.be/mSZWSQSSEjE?t=223)|
-|[Rear facing wrist stretch - Palms Up](https://youtu.be/mSZWSQSSEjE?t=269)|
-|[Rear facing elbow rotations](https://youtu.be/mSZWSQSSEjE?t=289)|
-|[Forward facing  wrist stretch](https://youtu.be/mSZWSQSSEjE?t=335)|
-
 |Mobility: 5-10 reps each|
 |------------------------|
 |Mountain Climbers or Frog hops (both feet will be moving to the sides of the hands|
-|X Cat Camels|
-|X [Wall Extension](http://www.youtube.com/watch?v=d6V2Exzb324)|
 |Band/Shoulder dislocates|
-|Scapula pushup (before planches and front/back levers)|Side Plank|
+|Scapula pushup|Side Plank|
 |Scapula pull up|
-|Scapula dip (before handstand and planches)|
+|Scapula dip|
 
 |Bodyline Work: 10-60s hold each|
 |-------------------------------|
 |Plank (more difficult: [extended plank](http://assets.menshealth.co.uk/main/thumbs/15513/arms-extended-plank618__landscape.jpg) and [30 other variations](http://www.liftingrevolution.com/top-30-thursday-30-plank-exercises-to-shock-your-core-and-body/))|
+|Side Plank|
 |[Reverse Plank](http://gethealthyu.com/wp-content/uploads/2014/10/Reverse-Tabletop-Plank_Exercise-3.jpg)|
 |[Glute Bridge](http://www.completesportscare.com.au/wp-content/uploads/2015/07/Gluteal-bridge.jpg)|
 |[Hollow Hold (aka Dish)](https://i.ytimg.com/vi/LlDNef_Ztsc/maxresdefault.jpg)|
 |[Arch Hold (aka Prone superman)](http://www.theboxmag.com/content/content/9446/Tight-Arch-Hold.jpg)|
-
-##Conditioning (~10 minutes) - Saturday
-
-|3x 10-15 reps|
-|---|
-|Burpess or Bastards (Burpess + Push-ups)|
-|Mountain climbers|
-|Squat Jumps|
-
-##Skill work (~10 minutes) - Tuesday, Thursday, Saturday
-Set a timer and go practice your support and your handstand, resting as necessary.
-When time's up, you're done.
-
-|Date |[Handstand: 5 - 10 minutes](https://www.reddit.com/r/Fitness/comments/na04x/learning_the_handstand_handstand_press/) |Date |Support: 2 - 3 minutes |
-|---|---|---|---|
-|---| Level 1: Wall Plank |---| **Level 1: Parallel Bar Support** |
-|09/11/2015| **Level 2: Wall Handstand** |---| Level 2: Ring Support |
-|---| Level 3: Freestanding Handstand |---| Level 3: Rings Turned Out Support |
 
 ##Strength Work (~40 minutes)
 You perform the hardest exercise in each progression that you can do for 3 sets of 5 to 8 repetitions. 
@@ -91,28 +60,6 @@ You perform the hardest exercise in each progression that you can do for 3 sets 
 Try to beat your previous numbers every workout. When you hit the upper end (so you can do 3 sets of 8 reps), you move up in the progression and start the next workout with 3 sets of 5 again. Note that this means that you only pick one of the exercises from each of the listed progressions. Once you move up in the progression, there's no need to keep the easier exercises in your routine.
 
 Some of the exercises are static holds, such as the L-sit progression or the tuck front lever in the rowing progression. One set here consists of simply holding the position for 10-30 seconds. Move on to the next harder progression once you hit 30 seconds for all 3 sets.
-
-###Core and Legs- Tuesday, Thursday, Saturday
-|3x 10-15 reps|30s to 1m|
-|---|---|
-|[V-sit up flexed leg](http://cdn2.coachmag.co.uk/sites/coachmag/files/styles/mf-scale-342-height/public/images/dir_11/mens_fitness_5848.jpg?itok=YSFE6YtB) (more difficult: [extended leg](http://cdn1.theodysseyonline.com/files/2014/10/07/635482856232055693-120918085_v-up.jpg))| [Isometric Wall Sit](http://www.listaddicts.com/wp-content/uploads/2015/02/Wall-Sit.jpg) 
-|Lying Leg Extension (Mix of dish and the hanging leg raise)|Hanging knee/leg raise isometric hold|
-|Hanging knee/leg raise||
-=> **[Do NOT do crunches](http://www.thankyourbody.com/do-not-do-crunches/)**
-
-###Planches - Tuesday, Thursday
-####Hold 30 seconds in as many sets as it takes you (e.g.: 6x 5s until the day you reach 1x 30s)
-
-|Planches|Dragon Flag
-|---|---|---|---|
-|---|Level 1: Planche lean|---|- Level 1: Candlestick (4x as long as you can. resting 45s or so after each set)|
-|---|Level 2: Frog stand|---|- Level 2: Tucked dragon flag (4x 5 reps)|
-|---|Level 3: [Advanced Frog stand](http://www.bodbot.com/Exercises/916/Advanced-Frog-Stand)|---|- Level 3: Single led dragon flag|
-|11/11|**Level 4: Tuck Planche (S.A.)**|---|- Level 4: Negative dragon flag|
-|---|Level 5: [Straddle Planche](http://i.imgur.com/84kmrCe.jpg) (S.A.)|---|- Level 5: Dragon flag|
-|---|Level 6: Planche (S.A.)|---||
-
-* **S.A.**: straight arm. arms must stay locked out
 
 ###Pairs - Monday, Wednesday, Friday
 Do all pairs.
@@ -135,11 +82,6 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 |---|Level 9: 1Assisted one-ar mpull-up|---|Level 9: Scap pull-ups with leg raise isometric hold|---|Level 11: Ring Dips|
 |---|Level 10: One-arm pull-up|---|Level 10: Pull-ups with a hanging leg raise|
 |---||---|Level 11: Pull-ups with a hanging leg raise isometric hold (aka L-Sit Pull-ups)|---||
-
-
-
-
-
 
 ###Pair 2
 |Date|Squat: 3x 5-8 reps|Date|[L-Sit or Half Lever](https://www.youtube.com/watch?v=16a529mtX68): 3x 10-30 sec holds|
@@ -175,19 +117,6 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 - Superman Pushup
 - Lalanne Pushup
 
-------
-##Strength Work Advanced Alternative
-|Day|Exercises|
-|---|---------|
-|Day 1: Pushing movements|Planches, handstand, pushups variations|
-|Day 2: Pulling movements|Front levers, back levers, pull-up variations|
-|Day 3: Rest day||
-|Day 4: Core exercises|half lever, dragon flag, hanging leg raises, etc.|
-|Day 5: Lower body and conditioning exercises|single leg squat variations, hamstring curls, burpees, jump squats, etc|
-|Day 6: Flexibility - Stretches||
-|Day 7: Rest day||
--------
-
 ##Flexibility and Resistance - Every day
 |Static Stretches: 10-60s hold each|Resistance: 10-20s hold each|
 |---|---|
@@ -205,3 +134,67 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 |Side lean/Standing side stretch||
 |Glute||
 |Calf||
+
+#Handstand & Planche days
+
+##Warm-up (~10 minutes)
+|3x 10 reps|
+|----|
+|Jumping jacks/Star jump|
+
+|Dynamic Stretches: 5-10 reps each:|
+|----------------------------------|
+|Knee circles|
+|[Neck: Tilt From Front To Back](http://www.des.umd.edu/os/erg/neck.html)|
+|[Neck: Tilt From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
+|[Neck: Rotate Head From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
+
+|Mobility: 5-10 reps each|
+|------------------------|
+|Mountain Climbers or Frog hops (both feet will be moving to the sides of the hands|
+|Rotator cuff stretch|
+|Band/Shoulder dislocates|
+|Scapula pushup|
+|Scapula pull up|
+|Scapula dip|
+
+Set a timer and go practice your support and your handstand, resting as necessary.
+When time's up, you're done.
+
+###Handstand and support
+|Date |[Handstand: 5 - 10 minutes](https://www.reddit.com/r/Fitness/comments/na04x/learning_the_handstand_handstand_press/) |Date |Support: 2 - 3 minutes |
+|---|---|---|---|
+|---| Level 1: Wall Plank |---| **Level 1: Parallel Bar Support** |
+|09/11/2015| **Level 2: Wall Handstand** |---| Level 2: Ring Support |
+|---| Level 3: Freestanding Handstand |---| Level 3: Rings Turned Out Support |
+
+
+###Core and Legs
+|3x 10-15 reps|30s to 1m|
+|---|---|
+|[V-sit up flexed leg](http://cdn2.coachmag.co.uk/sites/coachmag/files/styles/mf-scale-342-height/public/images/dir_11/mens_fitness_5848.jpg?itok=YSFE6YtB) (more difficult: [extended leg](http://cdn1.theodysseyonline.com/files/2014/10/07/635482856232055693-120918085_v-up.jpg))| [Isometric Wall Sit](http://www.listaddicts.com/wp-content/uploads/2015/02/Wall-Sit.jpg) 
+|Lying Leg Extension (Mix of dish and the hanging leg raise)|Hanging knee/leg raise isometric hold|
+|Hanging knee/leg raise||
+=> **[Do NOT do crunches](http://www.thankyourbody.com/do-not-do-crunches/)**
+
+###Planches and Dragon flag
+Hold 30 seconds in as many sets as it takes you (e.g.: 6x 5s until the day you reach 1x 30s)
+
+|Planches|Dragon Flag
+|---|---|---|---|
+|---|Level 1: Planche lean|---|- Level 1: Candlestick (4x as long as you can. resting 45s or so after each set)|
+|---|Level 2: Frog stand|---|- Level 2: Tucked dragon flag (4x 5 reps)|
+|---|Level 3: [Advanced Frog stand](http://www.bodbot.com/Exercises/916/Advanced-Frog-Stand)|---|- Level 3: Single led dragon flag|
+|11/11|**Level 4: Tuck Planche (S.A.)**|---|- Level 4: Negative dragon flag|
+|---|Level 5: [Straddle Planche](http://i.imgur.com/84kmrCe.jpg) (S.A.)|---|- Level 5: Dragon flag|
+|---|Level 6: Planche (S.A.)|---||
+
+* **S.A.**: straight arm. arms must stay locked out
+
+#Conditioning days
+
+|3x 10-15 reps|
+|---|
+|Burpess or Bastards (Burpess + Push-ups)|
+|Mountain climbers or Frog hops|
+|Squat Jumps|
