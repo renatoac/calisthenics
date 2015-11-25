@@ -27,7 +27,7 @@
 
 #Strength days
 
-##Warm-up (~10 minutes) - Every day
+##Warm-up (~10 minutes)
 |Dynamic Stretches: 5-10 reps each:|
 |----------------------------------|
 |[Hip circles](http://www.belmarrahealth.com/exercise-for-better-digestion/)|
@@ -35,6 +35,10 @@
 |[Neck: Tilt From Front To Back](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Tilt From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Rotate Head From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
+
+|3x 10 reps|
+|----|
+|Jumping jacks/Star jump|
 
 |Mobility: 5-10 reps each|
 |------------------------|
@@ -135,16 +139,16 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 #Handstand & Planche days
 
 ##Warm-up (~10 minutes)
-|3x 10 reps|
-|----|
-|Jumping jacks/Star jump|
-
 |Dynamic Stretches: 5-10 reps each:|
 |----------------------------------|
 |Knee circles|
 |[Neck: Tilt From Front To Back](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Tilt From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Rotate Head From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
+
+|3x 10 reps|
+|----|
+|Jumping jacks/Star jump|
 
 |Mobility: 5-10 reps each|
 |------------------------|
