@@ -1,11 +1,9 @@
 #Calisthenics Workout Plan
 |Table of Contents|
 |----|
-|[Warm-up (~10 minutes)](https://gist.github.com/renatoac/ce87d0702995b8ea48ee#warm-up-10-minutes---every-day)
-|[Skill work (~10 minutes)](https://gist.github.com/renatoac/ce87d0702995b8ea48ee#skill-work-10-minutes---tuesday-thursday-saturday)
-|[Conditioning (~10 minutes)](https://gist.github.com/renatoac/ce87d0702995b8ea48ee#conditioning-10-minutes---saturday)|
-|[Strength Work (~40 minutes)](https://gist.github.com/renatoac/ce87d0702995b8ea48ee#strength-work-40-minutes)
-|[Flexibility and Resistance (~10 minutes)](https://gist.github.com/renatoac/ce87d0702995b8ea48ee#flexibility-and-resistance---every-day)|
+|[Strength days](Strength days)|
+|Handstand & Planche days|
+|Conditioning days|
 
 **References**: 
 - book: [Complete Calisthenics: The Ultimate Guide To Bodyweight Exercise](http://amzn.to/1NHXeaT)
@@ -54,14 +52,13 @@
 |[Hollow Hold (aka Dish)](https://i.ytimg.com/vi/LlDNef_Ztsc/maxresdefault.jpg)|
 |[Arch Hold (aka Prone superman)](http://www.theboxmag.com/content/content/9446/Tight-Arch-Hold.jpg)|
 
-##Strength Work (~40 minutes)
 You perform the hardest exercise in each progression that you can do for 3 sets of 5 to 8 repetitions. 
 
 Try to beat your previous numbers every workout. When you hit the upper end (so you can do 3 sets of 8 reps), you move up in the progression and start the next workout with 3 sets of 5 again. Note that this means that you only pick one of the exercises from each of the listed progressions. Once you move up in the progression, there's no need to keep the easier exercises in your routine.
 
 Some of the exercises are static holds, such as the L-sit progression or the tuck front lever in the rowing progression. One set here consists of simply holding the position for 10-30 seconds. Move on to the next harder progression once you hit 30 seconds for all 3 sets.
 
-###Pairs - Monday, Wednesday, Friday
+##Pairs (~40 minutes)
 Do all pairs.
 Pairing two exercises means doing a set of the first exercise, then resting 90 seconds, then doing a set of the second exercise and resting 90 seconds, and then repeating until you've done all sets of that pair.
 You can rest anywhere from 90 seconds to 3 minutes between pairs, whatever you like.
