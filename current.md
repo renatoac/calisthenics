@@ -71,43 +71,43 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 ###Pair 1
 |Date|[Pullup](http://i.imgur.com/qj7xV.jpg): 3x 5-8 reps|Date|[L-sit pullup](http://thepullupsolution.com/blog/the-l-sit-pull-up-10-baby-steps-to-mastery): 3x 5-8 reps|Date|[Dips: 3x 5-8reps](http://www.fitness666.com/2012/06/dip-progression.html)| 
 |----|----|----|----|----|----|
-|---|Level 1: Vertical pull-up|---| <= the same|---|Level 1: Bent knee bench dips|
-|---|Level 2: Horizontal pull-up|---| <= the same|---|Level 2: Straight legs bench dips|
-|---|Level 3A: [Jacknife pull-up](https://www.youtube.com/watch?v=GOeBd9YBx5k) / [Chair assisted](https://www.youtube.com/watch?v=lR55iuAxmsQ) |---| <= the same|---|Level 3: One elevated leg, straight legs bench dips|
-|---|Level 3B: Negative pull-up|---| <= the same|---|Level 4: Elevated legs bench dips|
-|---|Level 4: Half pull-up|---| <= the same|---|Level 5: Legs on the floor dips (assisted dips)|
-|---|Level 5: Full pull-up|---| <= the same|---|Level 6: One leg on the floor, one leg in the air dips|
-|---|Level 6: Close pull-up|---|Level 6: Scap pull-ups with knee raise isometric hold|---|Level 7: Jumping and eccentric dips|
-|---|Level 7: Uneven pull-up|---|Level 7: Pull-ups with a hanging knee raise|---|Level 8: Parallel Bar Dips|---|Level 9: Legs forward dip|
-|---|Level 8: 1/2 One pull-up|---|Level 8: Pull-ups with a hanging knee raise isometric hold|---|Level 10: Rings L-Sit Dips|
-|---|Level 9: 1Assisted one-ar mpull-up|---|Level 9: Scap pull-ups with leg raise isometric hold|---|Level 11: Ring Dips|
-|---|Level 10: One-arm pull-up|---|Level 10: Pull-ups with a hanging leg raise|
-|---||---|Level 11: Pull-ups with a hanging leg raise isometric hold (aka L-Sit Pull-ups)|---||
+||Level 1: Vertical pull-up|---| <= the same||Level 1: Bent knee bench dips|
+||Level 2: Horizontal pull-up|---| <= the same||Level 2: Straight legs bench dips|
+||Level 3A: [Jacknife pull-up](https://www.youtube.com/watch?v=GOeBd9YBx5k) / [Chair assisted](https://www.youtube.com/watch?v=lR55iuAxmsQ) || <= the same||Level 3: One elevated leg, straight legs bench dips|
+||Level 3B: Negative pull-up|| <= the same||Level 4: Elevated legs bench dips|
+||Level 4: Half pull-up|| <= the same||Level 5: Legs on the floor dips (assisted dips)|
+||Level 5: Full pull-up|| <= the same||Level 6: One leg on the floor, one leg in the air dips|
+||Level 6: Close pull-up||Level 6: Scap pull-ups with knee raise isometric hold||Level 7: Jumping and eccentric dips|
+||Level 7: Uneven pull-up||Level 7: Pull-ups with a hanging knee raise||Level 8: Parallel Bar Dips||Level 9: Legs forward dip|
+||Level 8: 1/2 One pull-up||Level 8: Pull-ups with a hanging knee raise isometric hold||Level 10: Rings L-Sit Dips|
+||Level 9: 1Assisted one-ar mpull-up||Level 9: Scap pull-ups with leg raise isometric hold||Level 11: Ring Dips|
+||Level 10: One-arm pull-up||Level 10: Pull-ups with a hanging leg raise|
+||||Level 11: Pull-ups with a hanging leg raise isometric hold (aka L-Sit Pull-ups)|||
 
 ###Pair 2
 |Date|Squat: 3x 5-8 reps|Date|[L-Sit or Half Lever](https://www.youtube.com/watch?v=16a529mtX68): 3x 10-30 sec holds|
 |---|---|---|---|
-|---|Level 1: Assisted Squat|---|Level 1: Foot Supported L-Sit|
-|---|Level 2: Squat|---|Level 2: One-Leg Foot Supported L-Sit|
-|27/10|**Level 3: Lunge**|---|Level 3: [Tucked L-Sit(http://i.imgur.com/uYw865W.jpg)]|
-|---|Level 4: Deep Step-Up|27/10|**Level 4: [Angled L-sit](http://i.imgur.com/FbSUIIE.jpg)**|
-|---||18/11|**Level 5: [L-sit](http://i.imgur.com/s1Rwuu5.jpg)**|
-|---||---|Level 6: L-sit extensions (movement from tucked to L-sit)|
-|---||---|Level 7: L-sit bicycles|
-|---||---|Level 8: L-sit swimmers|
-|---||---|Level 9: V-sit|
+||Level 1: Assisted Squat||Level 1: Foot Supported L-Sit|
+||Level 2: Squat||Level 2: One-Leg Foot Supported L-Sit|
+|27/10|**Level 3: Lunge**||Level 3: [Tucked L-Sit(http://i.imgur.com/uYw865W.jpg)]|
+||Level 4: Deep Step-Up|27/10|**Level 4: [Angled L-sit](http://i.imgur.com/FbSUIIE.jpg)**|
+|||18/11|**Level 5: [L-sit](http://i.imgur.com/s1Rwuu5.jpg)**|
+||||Level 6: L-sit extensions (movement from tucked to L-sit)|
+||||Level 7: L-sit bicycles|
+||||Level 8: L-sit swimmers|
+||||Level 9: V-sit|
 
 ###Pair 3
 |Date|Pushup: 3x 5-8 reps|Date|Row: 3x 5-8 reps|
 |---|---|---|---|
-|---|Level 1: Vertical Pushup|---|Level 1: Vertical Rows|
-|---|Level 2: Incline Pushup|---|Level 2: Incline Rows|
-|---|Level 3: Full Pushup|---|Level 3: Horizontal Rows|
-|---|Level 4: Diamond Pushup|---|Level 4: Wide Rows|
-|---|Level 5: Pseudo planche Pushup|27/10|**Level 5: Tuck Front Lever**|
-|---|Level 6: Wall Pushup (makes heavy use of core)|---|Level 6: Tuck Ice Cream Maker|
-|---|Level 7: Archer Pushup|---|Level 7: Tuck Front Lever Row|
-|---|Level 8: Spider Pushup|---|Level 8: Advanced Tuck Front Lever Row|
+||Level 1: Vertical Pushup||Level 1: Vertical Rows|
+||Level 2: Incline Pushup||Level 2: Incline Rows|
+||Level 3: Full Pushup||Level 3: Horizontal Rows|
+||Level 4: Diamond Pushup||Level 4: Wide Rows|
+||Level 5: Pseudo planche Pushup|27/10|**Level 5: Tuck Front Lever**|
+||Level 6: Wall Pushup (makes heavy use of core)||Level 6: Tuck Ice Cream Maker|
+||Level 7: Archer Pushup||Level 7: Tuck Front Lever Row|
+||Level 8: Spider Pushup||Level 8: Advanced Tuck Front Lever Row|
 
 **Variations**:
 - Fingertip Pushup (It's not necessrily used to develop pushing strenght, but rather the strenght and resilience of the hands and fingers.)
@@ -123,8 +123,8 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 |---|---|
 |Cat pose||
 |Cobra pose|[Neck: Side Resistance](http://www.des.umd.edu/os/erg/neck.html)|
-|Forearm and wrist stretch|[Neck: Forward Resistance](http://www.des.umd.edu/os/erg/neck.html)(advanced: push the wall with your forehead)|
-|Chest and Shoulder stretch|[Neck: Backward Resistance](http://www.des.umd.edu/os/erg/neck.html)(advanced: push the wall with the back of the head)|
+|Forearm and wrist stretch|[Neck: Forward Resistance](http://www.des.umd.edu/os/erg/neck.html)|
+|Chest and Shoulder stretch|[Neck: Backward Resistance](http://www.des.umd.edu/os/erg/neck.html)|
 |Rotator cuff stretch||
 |Upper back stretch||
 |Quad stretch||
@@ -184,12 +184,12 @@ Hold 30 seconds in as many sets as it takes you (e.g.: 6x 5s until the day you r
 
 |Planches|Dragon Flag
 |---|---|---|---|
-|---|Level 1: Planche lean|---|- Level 1: Candlestick (4x as long as you can. resting 45s or so after each set)|
-|---|Level 2: Frog stand|---|- Level 2: Tucked dragon flag (4x 5 reps)|
-|---|Level 3: [Advanced Frog stand](http://www.bodbot.com/Exercises/916/Advanced-Frog-Stand)|---|- Level 3: Single led dragon flag|
+||Level 1: Planche lean|---|- Level 1: Candlestick (4x as long as you can. resting 45s or so after each set)|
+||Level 2: Frog stand|---|- Level 2: Tucked dragon flag (4x 5 reps)|
+||Level 3: [Advanced Frog stand](http://www.bodbot.com/Exercises/916/Advanced-Frog-Stand)|---|- Level 3: Single led dragon flag|
 |11/11|**Level 4: Tuck Planche (S.A.)**|---|- Level 4: Negative dragon flag|
-|---|Level 5: [Straddle Planche](http://i.imgur.com/84kmrCe.jpg) (S.A.)|---|- Level 5: Dragon flag|
-|---|Level 6: Planche (S.A.)|---||
+||Level 5: [Straddle Planche](http://i.imgur.com/84kmrCe.jpg) (S.A.)|---|- Level 5: Dragon flag|
+||Level 6: Planche (S.A.)|||
 
 * **S.A.**: straight arm. arms must stay locked out
 
