@@ -40,14 +40,13 @@
 |------------------------|
 |Mountain Climbers or Frog hops (both feet will be moving to the sides of the hands|
 |Band/Shoulder dislocates|
-|Scapula pushup|Side Plank|
+|Scapula pushup|
 |Scapula pull up|
 |Scapula dip|
 
 |Bodyline Work: 10-60s hold each|
 |-------------------------------|
 |Plank (more difficult: [extended plank](http://assets.menshealth.co.uk/main/thumbs/15513/arms-extended-plank618__landscape.jpg) and [30 other variations](http://www.liftingrevolution.com/top-30-thursday-30-plank-exercises-to-shock-your-core-and-body/))|
-|Side Plank|
 |[Reverse Plank](http://gethealthyu.com/wp-content/uploads/2014/10/Reverse-Tabletop-Plank_Exercise-3.jpg)|
 |[Glute Bridge](http://www.completesportscare.com.au/wp-content/uploads/2015/07/Gluteal-bridge.jpg)|
 |[Hollow Hold (aka Dish)](https://i.ytimg.com/vi/LlDNef_Ztsc/maxresdefault.jpg)|
@@ -170,6 +169,7 @@ When time's up, you're done.
 ###Core and Legs
 |3x 10-15 reps|30s to 1m|
 |---|---|
+|Side Plank||
 |[V-sit up flexed leg](http://cdn2.coachmag.co.uk/sites/coachmag/files/styles/mf-scale-342-height/public/images/dir_11/mens_fitness_5848.jpg?itok=YSFE6YtB) (more difficult: [extended leg](http://cdn1.theodysseyonline.com/files/2014/10/07/635482856232055693-120918085_v-up.jpg))| [Isometric Wall Sit](http://www.listaddicts.com/wp-content/uploads/2015/02/Wall-Sit.jpg) 
 |Lying Leg Extension (Mix of dish and the hanging leg raise)|Hanging knee/leg raise isometric hold|
 |Hanging knee/leg raise||
