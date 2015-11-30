@@ -1,4 +1,4 @@
-#Calisthenics Workout Plan
+#Calisthenics Workout Plana
 
 |Table of Contents|
 |----|
@@ -90,9 +90,9 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 |---|---|---|---|
 ||Level 1: Assisted Squat||Level 1: Foot Supported L-Sit|
 ||Level 2: Squat||Level 2: One-Leg Foot Supported L-Sit|
-|27/10|**Level 3: Lunge**||Level 3: [Tucked L-Sit(http://i.imgur.com/uYw865W.jpg)]|
-||Level 4: Deep Step-Up|27/10|**Level 4: [Angled L-sit](http://i.imgur.com/FbSUIIE.jpg)**|
-|||18/11|**Level 5: [L-sit](http://i.imgur.com/s1Rwuu5.jpg)**|
+|27/10|**Level 3: Lunge**|18/11(30s)|Level 3: [Tucked L-Sit(http://i.imgur.com/uYw865W.jpg)]|
+||Level 4: Deep Step-Up||**Level 4: [Angled L-sit](http://i.imgur.com/FbSUIIE.jpg)**|
+||||**Level 5: [L-sit](http://i.imgur.com/s1Rwuu5.jpg)**|
 ||||Level 6: L-sit extensions (movement from tucked to L-sit)|
 ||||Level 7: L-sit bicycles|
 ||||Level 8: L-sit swimmers|
