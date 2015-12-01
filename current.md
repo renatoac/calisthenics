@@ -182,7 +182,6 @@ When time's up, you're done.
 |09/11/2015| **Level 2: Wall Handstand** || Level 2: Ring Support |
 || Level 3: Freestanding Handstand || Level 3: Rings Turned Out Support |
 
-
 ###Core and Legs
 |3x 10-15 reps|30s to 1m|
 |---|---|
@@ -205,6 +204,24 @@ Hold 30 seconds in as many sets as it takes you (e.g.: 6x 5s until the day you r
 ||Level 6: Planche (S.A.)|||
 
 * **S.A.**: straight arm. arms must stay locked out
+
+##Flexibility and Resistance 
+|Static Stretches: 10-60s hold each|Resistance: 10-20s hold each|
+|---|---|
+|Cat pose||
+|Cobra pose|[Neck: Side Resistance](http://www.des.umd.edu/os/erg/neck.html)|
+|Forearm and wrist stretch|[Neck: Forward Resistance](http://www.des.umd.edu/os/erg/neck.html)|
+|Chest and Shoulder stretch|[Neck: Backward Resistance](http://www.des.umd.edu/os/erg/neck.html)|
+|Rotator cuff stretch||
+|Upper back stretch||
+|Quad stretch||
+|Hamstring stretch||
+|Straddle stretch ||
+|Groin stretch||
+|Hip flexor stretch||
+|Side lean/Standing side stretch||
+|Glute||
+|Calf||
 
 #Conditioning days
 
