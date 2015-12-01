@@ -147,6 +147,18 @@ All exercises are to be done in a 10x0 tempo. That means 1 second down, no pause
 |[Neck: Tilt From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
 |[Neck: Rotate Head From Side To Side](http://www.des.umd.edu/os/erg/neck.html)|
 
+|[Wirst Stretches](https://www.youtube.com/watch?v=mSZWSQSSEjE): 10 reps each (for days of handstand or planches)|
+|----|
+|[Finger pulses](https://youtu.be/mSZWSQSSEjE?t=53)|
+|[Palm pulses](https://youtu.be/mSZWSQSSEjE?t=90)|
+|[Side-to-Side palm](https://youtu.be/mSZWSQSSEjE?t=124)|
+|[Front facing elbow rotations](https://youtu.be/mSZWSQSSEjE?t=152)|
+|[Side-to-site wrist stretch](https://youtu.be/mSZWSQSSEjE?t=190)|
+|[Rear facing wrist stretch - Palms Down](https://youtu.be/mSZWSQSSEjE?t=223)|
+|[Rear facing wrist stretch - Palms Up](https://youtu.be/mSZWSQSSEjE?t=269)|
+|[Rear facing elbow rotations](https://youtu.be/mSZWSQSSEjE?t=289)|
+|[Forward facing  wrist stretch](https://youtu.be/mSZWSQSSEjE?t=335)|
+
 |3x 10 reps|
 |----|
 |Jumping jacks/Star jump|
